@@ -18,10 +18,10 @@ We built FitMart to make shopping for fitness gear easy and fun. You can browse 
 
 
 
-Front-End (What you see):** HTML, CSS, and JavaScript for a smooth and interactive website.
-Back-End (The engine):** PHP to handle all the behind-the-scenes magic.
-Database (Where we store stuff):** MySQL to keep track of products, users, and orders.
-Emails:** We use PHP's `mail()` to send you important updates.
+Front-End:** HTML, CSS, and JavaScript for a smooth and interactive website.
+Back-End:** PHP to handle all the behind-the-scenes magic.
+Database :** MySQL to keep track of products, users, and orders.
+Emails:** We use PHPMailer to send you important updates.
 
 
  Getting FitMart Running (For Developers)
